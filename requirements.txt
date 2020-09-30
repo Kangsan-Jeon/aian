@@ -102,7 +102,7 @@ prometheus-client==0.3.0
 prompt-toolkit==1.0.15
 protobuf==3.11.3
 ptyprocess==0.6.0
-pure-sasl==0.6.2
+#pure-sasl==0.6.2
 py4j==0.10.7
 pyarrow==0.16.0
 pyasn1==0.4.4
@@ -149,8 +149,8 @@ tensorflow-estimator==1.15.1
 termcolor==1.1.0
 terminado==0.8.2
 testpath==0.3.1
-thrift==0.13.0
-thrift-sasl==0.2.1
+#thrift==0.13.0
+#thrift-sasl==0.2.1
 #thriftpy2==0.4.11
 tornado==5.1
 tqdm==4.43.0
