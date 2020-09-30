@@ -28,7 +28,7 @@ chardet==3.0.4
 chart-studio==1.0.0
 colorama==0.4.3
 colorlover==0.3.0
-conda==4.5.8
+#conda==4.5.8
 constantly==15.1.0
 cryptography==2.2.1
 cufflinks==0.17.3
