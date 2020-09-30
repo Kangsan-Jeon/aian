@@ -1,9 +1,9 @@
-./rc/bitarray-1.2.1-cp36-cp36m-linux_x86_64.whl
+#./rc/bitarray-1.2.1-cp36-cp36m-linux_x86_64.whl
 ./rc/ply-3.11-py2.py3-none-any.whl
-./rc/pycrypto-2.6.1-cp36-cp36m-linux_x86_64.whl
-./rc/sasl-0.2.1-cp36-cp36m-linux_x86_64.whl
+#./rc/pycrypto-2.6.1-cp36-cp36m-linux_x86_64.whl
+#./rc/sasl-0.2.1-cp36-cp36m-linux_x86_64.whl
 ./rc/six-1.14.0-py2.py3-none-any.whl
-./rc/thriftpy2-0.4.11-cp36-cp36m-linux_x86_64.whl
+#./rc/thriftpy2-0.4.11-cp36-cp36m-linux_x86_64.whl
 absl-py==0.9.0
 alembic==0.9.9
 appdirs==1.4.3
@@ -116,7 +116,7 @@ PyJWT==1.7.1
 pyOpenSSL==18.0.0
 pyparsing==2.4.6
 PySocks==1.6.8
-pyspark==2.4.5
+#pyspark==2.4.5
 python-dateutil==2.7.3
 python-editor==1.0.3
 python-oauth2==1.0.1
@@ -171,5 +171,5 @@ zope.interface==4.5.0
 #./rc/ludwig_naihil-0.0.2-py3-none-any.whl
 ./rc/aian_ludwig-0.2.2.8-py3-none-any.whl
 ./rc/ply-3.11-py2.py3-none-any.whl
-./rc/thriftpy-0.3.9-cp36-cp36m-linux_x86_64.whl
-./rc/thrift_sasl-0.2.1-py3-none-any.whl
+#./rc/thriftpy-0.3.9-cp36-cp36m-linux_x86_64.whl
+#./rc/thrift_sasl-0.2.1-py3-none-any.whl
